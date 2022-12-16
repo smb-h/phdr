@@ -3,7 +3,9 @@ phdr
 
 # Persian Handwritten Digit Recognition
 
-This is a simple implementation of a K-Nearest Neighbors classifier for Persian Handwritten Digit Recognition. The notebook available at `notebooks/knn.ipynb` contains the implementation and the results.
+This is done with help of a K-Nearest Neighbors classifier and Convolution neural network for Persian Handwritten Digit Recognition. The notebooks are available at 
+
+`notebooks/knn.ipynb` and `notebooks/cnn.ipynb` respectively.
 
 
 ## Dataset
