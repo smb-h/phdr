@@ -1,4 +1,4 @@
-phdr
+PHDR
 ==============================
 
 # Persian Handwritten Digit Recognition
