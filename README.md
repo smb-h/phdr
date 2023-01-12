@@ -3,9 +3,13 @@ PHDR
 
 # Persian Handwritten Digit Recognition
 
-This is done with help of a K-Nearest Neighbors classifier and Convolution neural network for Persian Handwritten Digit Recognition. The notebooks are available at 
+This is done with help of 
+    a K-Nearest Neighbors classifier,
+    a Fully connected neural network and
+    a Convolutional neural network
+ for Persian Handwritten Digit Recognition. The notebooks are available at 
 
-`notebooks/knn.ipynb` and `notebooks/cnn.ipynb` respectively.
+`notebooks/knn.ipynb`, `notebooks/fcnn.ipynb` and `notebooks/convnn.ipynb` respectively.
 
 
 ## Dataset
