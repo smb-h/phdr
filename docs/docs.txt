@@ -1,3 +1,9 @@
-crop  to content
-colour management (histogram)
-padding to resize
+# SMBH
+- [ ] Use pretrained Resnet50 on imagenet as feature extractor, then feed those features to Logestic Regression
+
+# MGH
+- [ ] LR
+- [ ] LDP -> LR
+- [ ] SVM
+- [ ] MLP
+- [ ] KNN
