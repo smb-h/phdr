@@ -1,0 +1,3 @@
+crop  to content
+colour management (histogram)
+padding to resize
