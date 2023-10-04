@@ -65,7 +65,7 @@ pathspec==0.10.3
 pexpect==4.8.0
 -e git+ssh://git@github.com/smb-h/phdr.git@38c3cbcb79ffe61610a172793ccafc9e016bf552#egg=phdr
 pickleshare==0.7.5
-Pillow==9.3.0
+Pillow==10.0.1
 platformdirs==2.6.0
 plotly==5.11.0
 prompt-toolkit==3.0.36
